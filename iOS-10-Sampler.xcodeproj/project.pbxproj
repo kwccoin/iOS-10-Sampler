@@ -1282,23 +1282,23 @@
 				TargetAttributes = {
 					8A1CC38B1D7AC22E00562709 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 9Z86A4AWDE;
+						DevelopmentTeam = XC2ZXQBB78;
 						ProvisioningStyle = Automatic;
 					};
 					8AB430541D7A6B4900A3BD98 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 9Z86A4AWDE;
+						DevelopmentTeam = XC2ZXQBB78;
 						ProvisioningStyle = Automatic;
 					};
 					8AB430681D7A6B4A00A3BD98 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 9Z86A4AWDE;
+						DevelopmentTeam = XC2ZXQBB78;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 8AB430541D7A6B4900A3BD98;
 					};
 					8AB430731D7A6B4A00A3BD98 = {
 						CreatedOnToolsVersion = 8.0;
-						DevelopmentTeam = 9Z86A4AWDE;
+						DevelopmentTeam = XC2ZXQBB78;
 						ProvisioningStyle = Automatic;
 						TestTargetID = 8AB430541D7A6B4900A3BD98;
 					};
@@ -1688,9 +1688,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = SamplerStickerPack/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-Sampler.SamplerStickerPack";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kwccoin.iOS-10-Sampler.SamplerStickerPack";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -1700,9 +1700,9 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "iMessage App Icon";
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = SamplerStickerPack/Info.plist;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-Sampler.SamplerStickerPack";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kwccoin.iOS-10-Sampler.SamplerStickerPack";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 			};
@@ -1805,10 +1805,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-Sampler/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-Sampler";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kwccoin.iOS-10-Sampler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "iOS-10-Sampler/iOS10Sampler-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -1819,10 +1820,11 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-Sampler/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-Sampler";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.kwccoin.iOS-10-Sampler";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "iOS-10-Sampler/iOS10Sampler-Bridging-Header.h";
 				SWIFT_VERSION = 3.0;
@@ -1834,7 +1836,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-SamplerTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-SamplerTests";
@@ -1849,7 +1851,7 @@
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-SamplerTests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-SamplerTests";
@@ -1863,7 +1865,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-SamplerUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-SamplerUITests";
@@ -1877,7 +1879,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
-				DEVELOPMENT_TEAM = 9Z86A4AWDE;
+				DEVELOPMENT_TEAM = XC2ZXQBB78;
 				INFOPLIST_FILE = "iOS-10-SamplerUITests/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.shu223.iOS-10-SamplerUITests";
